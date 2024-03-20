@@ -1,0 +1,1026 @@
+[
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "django",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django",
+        "description": "django",
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "parse_date",
+        "importPath": "django.utils.dateparse",
+        "description": "django.utils.dateparse",
+        "isExtraImport": true,
+        "detail": "django.utils.dateparse",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "ClinicalStudy",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "SponsorCollaborator",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Description",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Condition",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Design",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Intervention",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ArmGroup",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Outcome",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Eligibility",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContactLocation",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Reference",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "MiscInfo",
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "isExtraImport": true,
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0001_initial",
+        "description": "myapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"ClinicalStudy\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "myapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0002_alter_design_masking_alter_design_phases",
+        "description": "myapp.migrations.0002_alter_design_masking_alter_design_phases",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"design\",\n            name=\"masking\",\n            field=models.CharField(max_length=50, null=True),\n        ),",
+        "detail": "myapp.migrations.0002_alter_design_masking_alter_design_phases",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0003_alter_design_allocation",
+        "description": "myapp.migrations.0003_alter_design_allocation",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0002_alter_design_masking_alter_design_phases\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"design\",\n            name=\"allocation\",\n            field=models.CharField(max_length=50, null=True),\n        ),",
+        "detail": "myapp.migrations.0003_alter_design_allocation",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0004_alter_design_intervention_model",
+        "description": "myapp.migrations.0004_alter_design_intervention_model",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0003_alter_design_allocation\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"design\",\n            name=\"intervention_model\",\n            field=models.CharField(max_length=50, null=True),\n        ),",
+        "detail": "myapp.migrations.0004_alter_design_intervention_model",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0005_alter_design_intervention_model_description_and_more",
+        "description": "myapp.migrations.0005_alter_design_intervention_model_description_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0004_alter_design_intervention_model\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"design\",\n            name=\"intervention_model_description\",\n            field=models.TextField(null=True),\n        ),",
+        "detail": "myapp.migrations.0005_alter_design_intervention_model_description_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0006_alter_intervention_other_names",
+        "description": "myapp.migrations.0006_alter_intervention_other_names",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0005_alter_design_intervention_model_description_and_more\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"intervention\",\n            name=\"other_names\",\n            field=models.CharField(max_length=255, null=True),\n        ),",
+        "detail": "myapp.migrations.0006_alter_intervention_other_names",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0007_alter_sponsorcollaborator_name",
+        "description": "myapp.migrations.0007_alter_sponsorcollaborator_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0006_alter_intervention_other_names\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"sponsorcollaborator\",\n            name=\"name\",\n            field=models.CharField(max_length=255, null=True),\n        ),",
+        "detail": "myapp.migrations.0007_alter_sponsorcollaborator_name",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0008_alter_sponsorcollaborator_name",
+        "description": "myapp.migrations.0008_alter_sponsorcollaborator_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0007_alter_sponsorcollaborator_name\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"sponsorcollaborator\",\n            name=\"name\",\n            field=models.CharField(max_length=255),\n        ),",
+        "detail": "myapp.migrations.0008_alter_sponsorcollaborator_name",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0009_alter_sponsorcollaborator_class_type",
+        "description": "myapp.migrations.0009_alter_sponsorcollaborator_class_type",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0008_alter_sponsorcollaborator_name\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"sponsorcollaborator\",\n            name=\"class_type\",\n            field=models.CharField(max_length=50, null=True),\n        ),",
+        "detail": "myapp.migrations.0009_alter_sponsorcollaborator_class_type",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0010_alter_contactlocation_state",
+        "description": "myapp.migrations.0010_alter_contactlocation_state",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0009_alter_sponsorcollaborator_class_type\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"contactlocation\",\n            name=\"state\",\n            field=models.CharField(max_length=100, null=True),\n        ),",
+        "detail": "myapp.migrations.0010_alter_contactlocation_state",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0011_alter_clinicalstudy_brief_title_and_more",
+        "description": "myapp.migrations.0011_alter_clinicalstudy_brief_title_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0010_alter_contactlocation_state\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"clinicalstudy\",\n            name=\"brief_title\",\n            field=models.CharField(max_length=255, null=True),\n        ),",
+        "detail": "myapp.migrations.0011_alter_clinicalstudy_brief_title_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0012_alter_eligibility_eligibility_criteria_and_more",
+        "description": "myapp.migrations.0012_alter_eligibility_eligibility_criteria_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0011_alter_clinicalstudy_brief_title_and_more\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"eligibility\",\n            name=\"eligibility_criteria\",\n            field=models.TextField(null=True),\n        ),",
+        "detail": "myapp.migrations.0012_alter_eligibility_eligibility_criteria_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0013_alter_eligibility_sex",
+        "description": "myapp.migrations.0013_alter_eligibility_sex",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"myapp\", \"0012_alter_eligibility_eligibility_criteria_and_more\"),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name=\"eligibility\",\n            name=\"sex\",\n            field=models.CharField(max_length=10, null=True),\n        ),",
+        "detail": "myapp.migrations.0013_alter_eligibility_sex",
+        "documentation": {}
+    },
+    {
+        "label": "MyappConfig",
+        "kind": 6,
+        "importPath": "myapp.apps",
+        "description": "myapp.apps",
+        "peekOfCode": "class MyappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'myapp'",
+        "detail": "myapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ClinicalStudy",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class ClinicalStudy(models.Model):\n    nct_id = models.CharField(max_length=50, unique=True,null=True)\n    org_study_id = models.CharField(max_length=50,null=True)\n    organization_name = models.CharField(max_length=255,null=True)\n    brief_title = models.CharField(max_length=255,null=True)\n    official_title = models.CharField(max_length=255,null=True)\n    status = models.CharField(max_length=50,null=True)\n    status_verified_date = models.DateField(default=None, null=True)\n    expanded_access = models.BooleanField(default=False)\n    start_date = models.DateField(default=None, null=True, validators=[MinValueValidator(limit_value='2000-01-01')])",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "SponsorCollaborator",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class SponsorCollaborator(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)\n    name = models.CharField(max_length=255)\n    class_type = models.CharField(max_length=50,null = True)\nclass Description(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    brief_summary = models.TextField()\n    detailed_description = models.TextField()\nclass Condition(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Description",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Description(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    brief_summary = models.TextField()\n    detailed_description = models.TextField()\nclass Condition(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)\n    condition = models.CharField(max_length=255)\nclass Design(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    study_type = models.CharField(max_length=50,null=True)",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Condition",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Condition(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)\n    condition = models.CharField(max_length=255)\nclass Design(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    study_type = models.CharField(max_length=50,null=True)\n    phases = models.CharField(max_length=50,null=True)\n    allocation = models.CharField(max_length=50,null=True)\n    intervention_model = models.CharField(max_length=50,null=True)\n    intervention_model_description = models.TextField(null=True)",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Design",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Design(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    study_type = models.CharField(max_length=50,null=True)\n    phases = models.CharField(max_length=50,null=True)\n    allocation = models.CharField(max_length=50,null=True)\n    intervention_model = models.CharField(max_length=50,null=True)\n    intervention_model_description = models.TextField(null=True)\n    primary_purpose = models.CharField(max_length=50,null=True)\n    masking = models.CharField(max_length=50,null=True)\nclass Intervention(models.Model):",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Intervention",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Intervention(models.Model):\n    name = models.CharField(max_length=255)\n    description = models.TextField()\n    other_names = models.CharField(max_length=255,null=True)\n    arm_group_labels = models.CharField(max_length=255)\nclass ArmGroup(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)\n    label = models.CharField(max_length=255)\n    type = models.CharField(max_length=50)\n    description = models.TextField()",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ArmGroup",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class ArmGroup(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)\n    label = models.CharField(max_length=255)\n    type = models.CharField(max_length=50)\n    description = models.TextField()\nclass Outcome(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)\n    measure = models.TextField()\n    description = models.TextField()\n    time_frame = models.CharField(max_length=255)",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Outcome",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Outcome(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)\n    measure = models.TextField()\n    description = models.TextField()\n    time_frame = models.CharField(max_length=255)\nclass Eligibility(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    eligibility_criteria = models.TextField(null = True)\n    healthy_volunteers = models.BooleanField(default=False)\n    sex = models.CharField(max_length=10,null = True)",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Eligibility",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Eligibility(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    eligibility_criteria = models.TextField(null = True)\n    healthy_volunteers = models.BooleanField(default=False)\n    sex = models.CharField(max_length=10,null = True)\n    minimum_age = models.CharField(max_length=20,null = True)\n    maximum_age = models.CharField(max_length=20,null = True)\n    stdAges = models.CharField(max_length = 100,default='all',null = True)\nclass ContactLocation(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContactLocation",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class ContactLocation(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    facility = models.CharField(max_length=255)\n    city = models.CharField(max_length=100)\n    state = models.CharField(max_length=100,null = True)\n    zip_code = models.CharField(max_length=20)\n    country = models.CharField(max_length=100)\n    latitude = models.FloatField()\n    longitude = models.FloatField()\nclass Reference(models.Model):",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Reference",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Reference(models.Model):\n    study = models.ForeignKey(ClinicalStudy, on_delete=models.CASCADE)\n    pmid = models.CharField(max_length=50)\n    type = models.CharField(max_length=50)\n    citation = models.TextField()\nclass MiscInfo(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    version_holder = models.CharField(max_length=20)",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "MiscInfo",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class MiscInfo(models.Model):\n    study = models.OneToOneField(ClinicalStudy, on_delete=models.CASCADE)\n    version_holder = models.CharField(max_length=20)",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "myapp.urls",
+        "description": "myapp.urls",
+        "peekOfCode": "urlpatterns = [\n]",
+        "detail": "myapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "myproject.asgi",
+        "description": "myproject.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "myproject.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-brxuhoe@jvb(zdrb=w!mwaw^)os_0c0ptbijo#7*axsd(z(!7!'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-brxuhoe@jvb(zdrb=w!mwaw^)os_0c0ptbijo#7*axsd(z(!7!'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'myapp',",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'myapp',\n]\nMIDDLEWARE = [",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'myproject.urls'",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "ROOT_URLCONF = 'myproject.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'myproject.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "myproject.settings",
+        "description": "myproject.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "myproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "myproject.urls",
+        "description": "myproject.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('myapp.urls'))\n]",
+        "detail": "myproject.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "myproject.wsgi",
+        "description": "myproject.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "myproject.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "load_json_data",
+        "kind": 2,
+        "importPath": "load_study_data",
+        "description": "load_study_data",
+        "peekOfCode": "def load_json_data(json_file):\n        with open(json_file, 'r') as f:\n            data = json.load(f)\n            #print(data)\n            data = data[0]\n            #print(data)\n            for study_info in data[\"studies\"]:\n                # try:\n                    with transaction.atomic():\n                            # ",
+        "detail": "load_study_data",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data_from_urls",
+        "kind": 2,
+        "importPath": "load_study_data",
+        "description": "load_study_data",
+        "peekOfCode": "def fetch_data_from_urls(url_list):\n    data = []\n    for url in url_list:\n        response = requests.get(url)\n        if response.status_code == 200:\n            data.append(response.json())\n        else:\n            print(f\"Failed to fetch data from {url}. Status code: {response.status_code}\")\n    save_data_as_json(data, output_directory, output_filename,url_list)\ndef save_data_as_json(data, output_dir, filename,urllist):",
+        "detail": "load_study_data",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_as_json",
+        "kind": 2,
+        "importPath": "load_study_data",
+        "description": "load_study_data",
+        "peekOfCode": "def save_data_as_json(data, output_dir, filename,urllist):\n    output_path = os.path.join(output_dir, filename)\n    with open(output_path, 'w') as file:\n        json.dump(data, file, indent=4)\n    print(f\"Data saved successfully to {output_path}\")\n    load_json_data(\"C:\\\\Users\\\\User 2\\\\Desktop\\\\alldata\\\\Active.json\")\n    if data[0].get(\"nextPageToken\"):\n        d = data[0]['nextPageToken']\n        li = urllist[0]\n        print(li,d)",
+        "detail": "load_study_data",
+        "documentation": {}
+    },
+    {
+        "label": "url_list",
+        "kind": 5,
+        "importPath": "load_study_data",
+        "description": "load_study_data",
+        "peekOfCode": "url_list = [\n    \"https://clinicaltrials.gov/api/v2/studies?pageSize=1000\"\n]\n# Directory to save JSON file\noutput_directory = \"C:\\\\Users\\\\User 2\\\\Desktop\\\\alldata\"\n# Filename for the JSON file\noutput_filename = \"Active1.json\"\ndata = fetch_data_from_urls(url_list)\n# Save data as JSON",
+        "detail": "load_study_data",
+        "documentation": {}
+    },
+    {
+        "label": "output_directory",
+        "kind": 5,
+        "importPath": "load_study_data",
+        "description": "load_study_data",
+        "peekOfCode": "output_directory = \"C:\\\\Users\\\\User 2\\\\Desktop\\\\alldata\"\n# Filename for the JSON file\noutput_filename = \"Active1.json\"\ndata = fetch_data_from_urls(url_list)\n# Save data as JSON",
+        "detail": "load_study_data",
+        "documentation": {}
+    },
+    {
+        "label": "output_filename",
+        "kind": 5,
+        "importPath": "load_study_data",
+        "description": "load_study_data",
+        "peekOfCode": "output_filename = \"Active1.json\"\ndata = fetch_data_from_urls(url_list)\n# Save data as JSON",
+        "detail": "load_study_data",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "load_study_data",
+        "description": "load_study_data",
+        "peekOfCode": "data = fetch_data_from_urls(url_list)\n# Save data as JSON",
+        "detail": "load_study_data",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myproject.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
